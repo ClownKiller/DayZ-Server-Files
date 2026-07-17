@@ -1,0 +1,24 @@
+{
+    "m_Version": 9,
+    "DisplayName": "General MMG Headphones",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_headphones_black",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 262,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_headphones_green",
+                "MMG_headphones_tan",
+                "MMG_headphones_ucp"
+            ]
+        }
+    ]
+}
