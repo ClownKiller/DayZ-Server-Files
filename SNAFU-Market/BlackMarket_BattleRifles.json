@@ -1,0 +1,35 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BlackMarket_BattleRifles",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "SNAFU_M14",
+      "MaxPriceThreshold": 22000,
+      "MinPriceThreshold": 16500,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUM1A_Black",
+      "MaxPriceThreshold": 22000,
+      "MinPriceThreshold": 16500,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUM1A_Green",
+        "SNAFUM1A_Tan"
+      ]
+    }
+  ]
+}
