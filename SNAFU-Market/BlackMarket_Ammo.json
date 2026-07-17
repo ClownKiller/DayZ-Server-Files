@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BlackMarket_Ammo",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "GCGN_Ammo_3006",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_Ammo_762x51",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Ammo_127x55mm",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Ammo_500_SW",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_Ammo_50Cal",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Ammo_338",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_Ammo_408Chey",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Ammo_127x55mmAP",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 37,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
